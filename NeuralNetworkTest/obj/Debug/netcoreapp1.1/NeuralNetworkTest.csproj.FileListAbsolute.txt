@@ -1,0 +1,18 @@
+g:\Windows\Documents\Visual Studio 2017\Projects\NeuralNetworkTest\NeuralNetworkTest\bin\Debug\netcoreapp1.1\NeuralNetworkTest.deps.json
+g:\Windows\Documents\Visual Studio 2017\Projects\NeuralNetworkTest\NeuralNetworkTest\bin\Debug\netcoreapp1.1\NeuralNetworkTest.runtimeconfig.json
+g:\Windows\Documents\Visual Studio 2017\Projects\NeuralNetworkTest\NeuralNetworkTest\bin\Debug\netcoreapp1.1\NeuralNetworkTest.runtimeconfig.dev.json
+g:\Windows\Documents\Visual Studio 2017\Projects\NeuralNetworkTest\NeuralNetworkTest\bin\Debug\netcoreapp1.1\NeuralNetworkTest.dll
+g:\Windows\Documents\Visual Studio 2017\Projects\NeuralNetworkTest\NeuralNetworkTest\bin\Debug\netcoreapp1.1\NeuralNetworkTest.pdb
+g:\Windows\Documents\Visual Studio 2017\Projects\NeuralNetworkTest\NeuralNetworkTest\obj\Debug\netcoreapp1.1\NeuralNetworkTest.csprojResolveAssemblyReference.cache
+g:\Windows\Documents\Visual Studio 2017\Projects\NeuralNetworkTest\NeuralNetworkTest\obj\Debug\netcoreapp1.1\NeuralNetworkTest.AssemblyInfo.cs
+g:\Windows\Documents\Visual Studio 2017\Projects\NeuralNetworkTest\NeuralNetworkTest\obj\Debug\netcoreapp1.1\NeuralNetworkTest.dll
+g:\Windows\Documents\Visual Studio 2017\Projects\NeuralNetworkTest\NeuralNetworkTest\obj\Debug\netcoreapp1.1\NeuralNetworkTest.pdb
+C:\Users\Fanta\OneDrive\Projekte\NeuralNetworkTest\NeuralNetworkTest\bin\Debug\netcoreapp1.1\NeuralNetworkTest.deps.json
+C:\Users\Fanta\OneDrive\Projekte\NeuralNetworkTest\NeuralNetworkTest\bin\Debug\netcoreapp1.1\NeuralNetworkTest.runtimeconfig.json
+C:\Users\Fanta\OneDrive\Projekte\NeuralNetworkTest\NeuralNetworkTest\bin\Debug\netcoreapp1.1\NeuralNetworkTest.runtimeconfig.dev.json
+C:\Users\Fanta\OneDrive\Projekte\NeuralNetworkTest\NeuralNetworkTest\bin\Debug\netcoreapp1.1\NeuralNetworkTest.dll
+C:\Users\Fanta\OneDrive\Projekte\NeuralNetworkTest\NeuralNetworkTest\bin\Debug\netcoreapp1.1\NeuralNetworkTest.pdb
+C:\Users\Fanta\OneDrive\Projekte\NeuralNetworkTest\NeuralNetworkTest\obj\Debug\netcoreapp1.1\NeuralNetworkTest.csprojResolveAssemblyReference.cache
+C:\Users\Fanta\OneDrive\Projekte\NeuralNetworkTest\NeuralNetworkTest\obj\Debug\netcoreapp1.1\NeuralNetworkTest.AssemblyInfo.cs
+C:\Users\Fanta\OneDrive\Projekte\NeuralNetworkTest\NeuralNetworkTest\obj\Debug\netcoreapp1.1\NeuralNetworkTest.dll
+C:\Users\Fanta\OneDrive\Projekte\NeuralNetworkTest\NeuralNetworkTest\obj\Debug\netcoreapp1.1\NeuralNetworkTest.pdb
