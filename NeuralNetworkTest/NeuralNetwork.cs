@@ -78,16 +78,6 @@ namespace NeuralNetworkTest
                     adj[j-1] = input[j-1].Dot(del[j-1]).Transpose();
                     weights[j - 1] = weights[j - 1].Add(adj[j - 1]);
                 }
-
-                //1 layer code
-                //double[,] output = predict(inputs);
-                //double[,] error = outputs.Sub(output);
-
-                //double[,] adj = inputs.Transpose().Dot(error.Mult(MyMath.sigmoid_derivative(output)));
-
-                //synaptic_weights = synaptic_weights.Add(adj);
-
-                //synaptic_weights = synaptic_weights.Zip(adj, (i1, i2) => i1 + i2).ToArray();
             }
         }
 
